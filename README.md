@@ -23,7 +23,7 @@ Bad SNS 2019は、教育目的での利用のみを意図して作られてい�
 ### Run
 
 ```
-$ docker run --privileged -d --rm -p 10080:80 --name badsns2019 ommadawn46/badsns2019
+$ docker run --privileged -d --rm -p 37563:80 --name badsns2019 ommadawn46/badsns2019
 ```
 
 ### Browse
